@@ -4,6 +4,7 @@ out/
 .vercel/
 .env*
 *.md
+!/README.md
 *.mmd
 *.log
 *.pem
