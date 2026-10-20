@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.vercel/
+.env*
+*.md
+*.mmd
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+.npmrc
+*.tsbuildinfo
+coverage/
+test-results/
+playwright-report/
